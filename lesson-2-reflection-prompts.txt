@@ -38,5 +38,8 @@ the diagram the way we do?
 	Merging will add lines of code common to the new commit and check to see which removals and additions happened in chronological order and perfrom these to the commit, creating a new file with all changes of the branches.
 	It is represented with two seperate lines in the diagram to show which commits are related to the other commits in the log.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+What are the pros and cons of Git's automatic merging vs. always doing merges 
 manually?
+
+
+	The auto merge will help with time as it will make the decisions on what to keep quicker than you would manually. However it may get stuck when changes are made to the same area.
