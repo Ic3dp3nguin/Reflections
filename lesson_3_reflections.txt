@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all of your work local?
+  When requiring outside input on your project.
