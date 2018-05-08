@@ -17,10 +17,18 @@ How can you use the staging area to make sure you have one commit per logical
 
 
 
-What are some situations when branches would be helpful in keeping your history
+What are some situations when branches would be helpful in keeping your history 
 organized? How would branches help?
 
+	Branches will be helpful when changing the nature of part of the project, if you want to add new features that aren't fully ready or debugged. It will help by allowing you to keep a master file which is bug free while still managing to keep track of changes to the new feature.
+
+
+
 How do the diagrams help you visualize the branch structure?
+
+
+
+	The help by providing an easy to understand picture of what commits hepled to form the current file of the branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
